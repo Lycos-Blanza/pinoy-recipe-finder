@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Chicken Adobo",
-    "image": "https://www.sunset.com/wp-content/uploads/chicken-adobo-0307-1200x900.jpg",
+    "image": "/assets/Chicken-adobo.jpg",
     "description": "A classic Filipino dish of chicken simmered in soy sauce, vinegar, garlic, and peppercorns.",
     "ingredients": [
       "1 kg chicken",
@@ -21,7 +21,7 @@
   {
     "id": 2,
     "name": "Sinigang na Baboy",
-    "image": "https://assets.unileversolutions.com/recipes-v2/214408.png",
+    "image": "/assets/Sinigang-na-baboy.avif",
     "description": "A savory and sour soup made with pork, tamarind broth, and various vegetables.",
     "ingredients": [
       "1 kg pork belly",
@@ -41,7 +41,7 @@
   {
     "id": 3,
     "name": "Beef Kare-Kare",
-    "image": "https://images.yummy.ph/yummy/uploads/2021/02/beefkarekarerecipe-2.jpg",
+    "image": "/assets/Beef-KareKare.jpg",
     "description": "A rich and savory Filipino stew with a thick peanut sauce, oxtail, and vegetables.",
     "ingredients": [
       "1 kg oxtail",
@@ -61,7 +61,7 @@
   {
     "id": 4,
     "name": "Pork Sisig",
-    "image": "https://www.unileverfoodsolutions.com.ph/dam/global-ufs/mcos/SEA/calcmenu/recipes/PH-recipes/appetisers/sizzling-pork-sisig-manila/sizzling-pork-sisig-manila-main.jpg",
+    "image": "/assets/Pork-sisig.jpg",
     "description": "A sizzling, savory dish made from chopped pig's face and belly, seasoned with calamansi and chili.",
     "ingredients": [
       "500g pig's face/ears",
@@ -81,7 +81,7 @@
   {
     "id": 5,
     "name": "Lechon Kawali",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Lechon_Kawali.jpg",
+    "image": "/assets/Lechon-kawali.webp",
     "description": "Deep-fried pork belly with a perfectly crispy skin and juicy, tender meat.",
     "ingredients": [
       "1 kg pork belly slab",
@@ -100,7 +100,7 @@
   {
     "id": 6,
     "name": "Crispy Pata",
-    "image": "https://www.unileverfoodsolutions.com.ph/dam/global-ufs/mcos/SEA/calcmenu/recipes/PH-recipes/red-meats-&-red-meat-dishes/boneless-crispy-pata-with-ensalada/boneless-crispy-pata-with-ensalada-main.jpg",
+    "image": "/assets/Crispy-pata.jpg",
     "description": "A whole pork leg boiled until tender and then deep-fried until golden and crunchy.",
     "ingredients": [
       "1 whole pork leg (pata)",
@@ -120,7 +120,7 @@
   {
     "id": 7,
     "name": "Bicol Express",
-    "image": "https://yummykitchentv.com/wp-content/uploads/2023/02/creamy-bicol-express.jpg",
+    "image": "/assets/Bicol-express.jpg",
     "description": "A spicy and creamy stew made of pork, chili peppers, and coconut milk.",
     "ingredients": [
       "500g pork belly, cubed",
@@ -139,7 +139,7 @@
   {
     "id": 8,
     "name": "Pancit Palabok",
-    "image": "https://www.seriouseats.com/thmb/cI2OJX-FEpCuGTmn0priBpwK6XA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__11__20191030-filipino-pancit-palabok-vicky-wasik-32-6e6689568e134ca187290918c8558c09.jpg",
+    "image": "/assets/Pancit-palabok.jpg",
     "description": "A noodle dish with a rich shrimp sauce, topped with shrimp, crushed chicharon, and hard-boiled eggs.",
     "ingredients": [
       "Rice noodles (palabok noodles)",
@@ -159,7 +159,7 @@
   {
     "id": 9,
     "name": "Lumpia Shanghai",
-    "image": "https://www.maggi.ph/sites/default/files/srh_recipes/25cf95a942d7253ccb0e43f8b039143f.jpg",
+    "image": "/assets/Lumpia-shanghai.jpg",
     "description": "Crispy, deep-fried spring rolls filled with a savory mixture of ground pork and vegetables.",
     "ingredients": [
       "500g ground pork",
@@ -178,7 +178,7 @@
   {
     "id": 10,
     "name": "Bulalo",
-    "image": "https://www.unileverfoodsolutions.com.ph/dam/global-ufs/mcos/SEA/calcmenu/recipes/PH-recipes/red-meats-&-red-meat-dishes/bulalo-with-lemongrass-and-ginger/bulalo-with-tanglad-and-ginger-main-banner.jpg",
+    "image": "/assets/Bulalo.avif",
     "description": "A light-colored soup made by cooking beef shanks and bone marrow until the fat has melted into the broth.",
     "ingredients": [
       "1 kg beef shanks with bone marrow",
@@ -197,7 +197,7 @@
   {
     "id": 11,
     "name": "Tapsilog",
-    "image": "https://www.thelittleepicurean.com/wp-content/uploads/2018/04/filipino-beef-tapa-tapsilog-0.jpg",
+    "image": "/assets/Tapsilog.webp",
     "description": "A popular breakfast meal containing beef tapa, fried rice (sinangag), and a fried egg (itlog).",
     "ingredients": [
       "250g beef tapa",
@@ -215,7 +215,7 @@
   {
     "id": 12,
     "name": "Chicken Inasal",
-    "image": "https://onestophalal.com/cdn/shop/articles/chicken_inasal_recipe_1200x.jpg?v=1745696930",
+    "image": "/assets/Chicken-inasal.jpg",
     "description": "A unique variant of grilled chicken from Bacolod, marinated in a mixture of calamansi, pepper, and annatto.",
     "ingredients": [
       "1 whole chicken, cut into serving pieces",
@@ -235,7 +235,7 @@
   {
     "id": 13,
     "name": "Laing",
-    "image": "https://assets.unileversolutions.com/recipes-v2/110738.jpg",
+    "image": "/assets/Laing.jpeg",
     "description": "A spicy Bicolano dish of shredded taro leaves cooked in thick coconut milk with shrimp paste and chili.",
     "ingredients": [
       "Dried taro leaves",
@@ -253,7 +253,7 @@
   {
     "id": 14,
     "name": "Dinuguan",
-    "image": "https://delishglobe.com/wp-content/uploads/2025/07/Filipino-Dinuguan-Pork-Blood-Stew.png",
+    "image": "/assets/Dinuguan.jpg",
     "description": "A savory stew of pork offal simmered in a rich, dark gravy of pig blood, garlic, chili, and vinegar.",
     "ingredients": [
       "500g pork meat and/or offal",
@@ -272,7 +272,7 @@
   {
     "id": 15,
     "name": "Pinakbet",
-    "image": "https://i0.wp.com/www.angsarap.net/wp-content/uploads/2017/02/Pinakbet-Wide.jpg?fit=1080%2C720&ssl=1",
+    "image": "/assets/Pinakbet.jpg",
     "description": "An indigenous Filipino dish from the northern regions, made from mixed vegetables sautéed in fish or shrimp sauce.",
     "ingredients": [
       "Squash (kalabasa)",
@@ -292,7 +292,7 @@
   {
     "id": 16,
     "name": "Arroz Caldo",
-    "image": "https://panlasangpinoy.com/wp-content/uploads/2017/05/Chicken-Arroz-Caldo-2.jpg",
+    "image": "/assets/Arroz-caldo.jpg",
     "description": "A hearty Filipino rice porridge (congee) cooked with chicken, ginger, and garnished with toasted garlic.",
     "ingredients": [
       "1 cup rice",
@@ -312,7 +312,7 @@
   {
     "id": 17,
     "name": "Bistek Tagalog",
-    "image": "https://assets.unileversolutions.com/recipes-v2/216104.jpg",
+    "image": "/assets/Bistek-tagalog.avif",
     "description": "Filipino beef steak made of thin slices of beef marinated and braised in soy sauce and calamansi juice.",
     "ingredients": [
       "500g beef sirloin, thinly sliced",
@@ -330,7 +330,7 @@
   {
     "id": 18,
     "name": "Kaldereta",
-    "image": "https://assets.unileversolutions.com/recipes-v2/110964.jpg",
+    "image": "/assets/Kaldereta.jpg",
     "description": "A classic Filipino meat stew, typically with goat or beef, cooked in a tomato-based sauce with liver paste.",
     "ingredients": [
       "1 kg beef or goat meat, cubed",
@@ -350,7 +350,7 @@
   {
     "id": 19,
     "name": "Mechado",
-    "image": "https://www.maggi.ph/sites/default/files/styles/image_744_x_419/public/srh_recipes/1218db9ac0a424f8adf3aab6f76db951.jpg?h=561fe1eb&itok=mToXtIGR",
+    "image": "/assets/Mechado.jpg",
     "description": "A braised beef dish cooked in a tomato sauce with a strip of pork fat inserted into the meat.",
     "ingredients": [
       "1 kg beef chuck, cubed",
@@ -371,7 +371,7 @@
   {
     "id": 20,
     "name": "Ginataang Manok",
-    "image": "https://images.yummy.ph/yummy/uploads/2017/06/ginataang-manok-kalabasa-1.jpg",
+    "image": "/assets/Ginataang-manok.jpg",
     "description": "A Filipino chicken stew made from chicken in coconut milk with green papaya and leafy vegetables.",
     "ingredients": [
       "1 kg chicken, cut up",
