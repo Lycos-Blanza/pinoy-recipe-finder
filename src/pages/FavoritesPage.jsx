@@ -71,6 +71,30 @@ export default function FavoritesPage() {
           </div>
         ))}
       </div>
+
+      {/* Browse More Recipes Button */}
+      <div className="text-center mt-5">
+        <button
+          className="btn rounded-pill px-5 py-3 fw-semibold shadow-sm"
+          style={{
+            backgroundColor: "rgb(13, 110, 253)",
+            color: "#FFFFFF",
+            fontSize: "1.1rem",
+            transition: "transform 0.2s, box-shadow 0.2s",
+          }}
+          onMouseOver={(e) => {
+            e.currentTarget.style.transform = "scale(1.05)";
+            e.currentTarget.style.boxShadow = "0 6px 15px rgba(0,0,0,0.3)";
+          }}
+          onMouseOut={(e) => {
+            e.currentTarget.style.transform = "scale(1)";
+            e.currentTarget.style.boxShadow = "0 4px 10px rgba(0,0,0,0.2)";
+          }}
+          onClick={goToRecipesSection}
+        >
+          + Browse More Recipes +
+        </button>
+      </div>
     </div>
   );
 }
