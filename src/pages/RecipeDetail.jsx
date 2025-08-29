@@ -1,6 +1,6 @@
 import { useParams, useNavigate, Link } from "react-router-dom";
 import recipes from "../data/recipes.json";
-import { useFavorites } from "../store/FavoritesContext";
+import { useFavorites } from "../contexts/FavoritesContext";
 
 export default function RecipeDetail() {
   const { id } = useParams();

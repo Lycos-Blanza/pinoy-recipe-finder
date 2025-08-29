@@ -1,5 +1,5 @@
 import { Link, useNavigate } from "react-router-dom";
-import { useFavorites } from "../store/FavoritesContext";
+import { useFavorites } from "../contexts/FavoritesContext";
 
 export default function FavoritesPage() {
   const { favorites, toggleFavorite } = useFavorites();
