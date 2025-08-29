@@ -26,7 +26,7 @@ export default function HomePage() {
       {/* Sticky Search Bar */}
       <div
         className="row mb-4 sticky-top bg-white pt-3 pb-3 shadow-sm"
-        style={{ top: "56.4px", zIndex: 1020 }}
+        style={{ top: "56px", zIndex: 1020 }}
       >
         <div className="col-md-6 offset-md-3">
           <input
