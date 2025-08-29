@@ -69,7 +69,7 @@ export default function RecipeDetail() {
               style={{
                 height: "330px",
                 objectFit: "cover",
-              }}
+              }} 
             />
           </div>
 
