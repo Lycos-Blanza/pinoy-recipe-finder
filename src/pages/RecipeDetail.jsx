@@ -56,7 +56,7 @@ export default function RecipeDetail() {
           }`}
           onClick={() => toggleFavorite(recipe)}
         >
-          {favorite ? "♥ Unfavorite" : "♡ Favorite"}
+          {favorite ? "♥ Remove from Favorites" : "♡ Add to Favorites"}
         </button>
 
         <div className="row g-4 align-items-start">
